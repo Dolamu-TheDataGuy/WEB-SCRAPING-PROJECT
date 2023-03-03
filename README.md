@@ -1,6 +1,6 @@
 ### WEB-SCRAPING-PROJECT
 
-<img src = "images (3).jpeg">
+<img src = "./images/images (3).jpeg">
 
 >Image from Skysport
 
