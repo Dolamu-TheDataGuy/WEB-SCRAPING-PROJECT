@@ -4,7 +4,11 @@ echo "Enter commit message"
 
 read message
 
+echo "Enter remote name"
+
 read remote
+
+echo "Enter branch name"
 
 read branch
 
